@@ -1,4 +1,6 @@
 # whodatwaifu
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rahatarmanahmed/whodatwaifu.svg)](https://greenkeeper.io/)
 waifu twitter bot w/ microsoft cognitive services computer vision
 
 ## Installing
